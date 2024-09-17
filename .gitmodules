@@ -1,12 +1,18 @@
-[submodule "car_project"]
-    path = Code/car_project
-    url = https://github.com/josiewhittington/car_project.git
+
 
 
 [submodule "PSYC450_final"]
     path = Code/PSYC450_final
-    url = https://github.com/josiewhittington/PSYC450_final.git
+    url = Code/PSYC450_final
+
+
+
+
+
+[submodule "car_project"]
+    path = Code/car_project
+    url = Code/car_project
 
 [submodule "relationships"]
     path = Code/relationships
-    url = https://github.com/josiewhittington/relationships.git
+    url = Code/relationships
